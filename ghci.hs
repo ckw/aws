@@ -6,6 +6,7 @@ import qualified Aws.S3 as S3
 import qualified Aws.Ses as Ses
 import qualified Aws.SimpleDb as Sdb
 import qualified Aws.Sqs as Sqs
+import qualified Aws.Route53 as Route53
 import           Control.Monad.IO.Class
 import           Control.Monad.Trans.Resource
 import qualified Data.ByteString as S
